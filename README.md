@@ -4,11 +4,10 @@
 - 🌱 I’m currently learning tvm.
 - 📫 How to reach me: ziqiangpei[at]foxmail.com.
 
-<!--
-**ZQPei/ZQPei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 [![ZQPei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZQPei&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+**ZQPei/ZQPei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
