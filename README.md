@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ML systems.
 - 🌱 I’m currently learning tvm.
-- 📫 How to reach me: ziqiangpei[at]foxmail.com.
+- 📫 How to reach me: [ziqiangpei@foxmail.com](mailto:ziqiangpei@foxmail.com).
 
 [![ZQPei's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZQPei&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
