@@ -1,7 +1,6 @@
 ### Hi there 👋, this is ZQPei's github.
 
-- 🔭 I’m currently working on ML systems.
-- 🌱 I’m currently learning tvm.
+- 🔭 I’m currently working on MLSys.
 - 📫 How to reach me: [ziqiangpei@foxmail.com](mailto:ziqiangpei@foxmail.com).
 
 
